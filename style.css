@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(193, 207, 207);
+    text-align: center;
+}
+main{
+    position: relative;
+    top: 20vh;
+}
+h1{
+    font-size: 5rem;
+}
